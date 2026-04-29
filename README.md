@@ -398,18 +398,3 @@ Command Coordinator
 - The rear drive wheels are controlled independently, allowing forward motion, reverse motion, and tank turns.
 - The front caster provides passive support while the rear wheels provide all driven motion.
 
-## Image Asset Names
-
-Place these image files in an `images/` folder next to `README.md`.
-
-| Image file | Used for |
-|---|---|
-| `images/car_side_profile.jpg` | Side profile of the complete car. |
-| `images/car_underside_drive_base.jpg` | Underside/front view showing drive base and sensor housing. |
-| `images/startup_01_battery_switch_prompt.jpg` | Battery voltage and switch prompt. |
-| `images/startup_02_dac_ramp.jpg` | DAC ramp startup state. |
-| `images/startup_03_iot_ip_display.jpg` | IOT IP/server display. |
-| `images/startup_04_sensor_calibration.jpg` | Sensor calibration screen. |
-| `images/startup_05_waiting_for_input.jpg` | Ready/waiting-for-input screen. |
-| `images/iot_app_button_layout.png` | IOT app saved button layout. |
-
