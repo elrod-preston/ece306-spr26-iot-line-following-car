@@ -1491,8 +1491,8 @@ static void ServiceIOT(void)
 
 void CommandCoordinator_Init(void)
 {
-    Copy10(id_line_1, "Preston");
-    Copy10(id_line_2, "Elrod");
+    Copy10(id_line_1, "FName");
+    Copy10(id_line_2, "LName");
 
     Copy10(done_line_1, "That was");
     Copy10(done_line_2, "easy!! ;-)");
